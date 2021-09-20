@@ -1,0 +1,39 @@
+/*
+ Theme Name:   Astra child
+ Theme URI:    http://example.com/astra-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       Emma Dalsgaard
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
+
+
+
+
+/* Her ændres fonten i menubareb*/
+
+.site-primary-header-wrap.ast-builder-grid-row-container.site-header-focus-item.ast-container {
+    font-family: 'Lato';
+ font-weight: 800;
+  
+}
+
+.site-header-primary-section-right.site-header-section.ast-flex.ast-grid-right-section
+{
+    font-family: 'Lato';
+ font-weight: 800; 
+}
+
+
+.ast-builder-menu-1 .menu-item > .menu-link 
+{
+     font-family: 'Lato';
+    
+    color: #022e81;
+}
